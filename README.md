@@ -1,1 +1,2 @@
-# ds2002midterm
+## DS-2002 Midterm
+### Amanda Lin
